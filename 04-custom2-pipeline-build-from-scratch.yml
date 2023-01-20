@@ -11,7 +11,7 @@ variables:
 
 stages:
 #Build Stage
-- stage: Build Stage
+- stage: Build
   displayName: Build Stage
   jobs: 
   - job: Build
